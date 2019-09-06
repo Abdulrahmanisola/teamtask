@@ -1,0 +1,119 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffb6b9;
+  font-weight: normal;
+}
+
+.logo {
+  font-family: 'Sacramento', cursive;
+  color: #ff6768;
+  font-size: 2em;
+  margin-left: 10px;
+}
+
+.name {
+  padding-top: 80px;
+  padding-left: 100px;
+
+  font-size: 20px;
+  color: #70416d;
+  font-family: 'Sacramento', 'cursive' 'Merriweather' sans-serif;
+}
+
+.intro {
+  background-color: #c8dad3;
+  color: #263859;
+  display: inline-flex;
+}
+
+.intro-speach {
+  padding-right: 80px;
+}
+
+img {
+  width: 200px;
+  padding: 30px 150px 150px 150px;
+}
+
+.contact {
+  padding-top: 150px;
+}
+hr {
+
+   border-style: dotted ;
+ border-top-style: none;
+   color : #ff6768;
+   border-width:  5px;
+   width : 3%;
+   margin: 100px auto;
+
+
+}
+h1 {
+
+  font-family: Monoton;
+  color:  #70416d;
+}
+h2 {
+color: #70416d;
+
+}
+h3 {
+  color: #70416d;
+}
+p {
+  color: #02383c;
+  font-family: 'Varela+Round';
+
+}
+.education {
+
+padding: 20px 150px 0 150px;
+
+}
+
+.certification {
+  padding: 0 150px ;
+
+}
+
+.data-science {
+
+  padding: 0 150px ;
+
+
+}
+
+.experience {
+  padding: 0 150px;
+
+}
+
+.solar-engineer {
+
+  padding: 0 150px;
+}
+
+.console {
+  padding: 0 150px;
+
+}
+.final {
+      padding: 0px 150px;
+
+}
+
+.reference {
+    padding: 0 150px;
+    font-family: 'Sacramento', cursive;
+}
+
+
+.container {
+  padding: 50px 150px;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
